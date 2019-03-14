@@ -1,0 +1,121 @@
+html {
+  scroll-behavior: smooth;
+}
+
+nav{
+  background-color:#A52A2A;
+}
+
+.brand-logo img{
+  max-height: 4.5rem;
+  max-width: 100%;
+  padding: 4px;
+}
+
+.sidenav{
+  background-color:#A52A2A;
+}
+
+.sidenav li{
+  padding-left: 20px!important;
+  padding-right: 20px!important;
+}
+
+.sidenav a, p{
+  color: white!important;
+  font-family: 'Hind', sans-serif!important;
+  font-size: 14px!important;
+  font-weight: normal!important;
+  padding-top: 3px!important;
+}
+
+.user-view{
+  margin-bottom: 30px!important;
+}
+
+.user-type{
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif!important;
+  font-size: 30px!important;
+  font-weight: bold!important;
+}
+
+.olapmenu{
+  line-height: 1.5!important;
+}
+
+.img-raised {
+  box-shadow: 0 5px 15px -8px rgba(0, 0, 0, 0.24), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.data-title{
+  color:rgb(64, 64, 64);
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.data{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+.announce{
+  background: linear-gradient(to right, #A52A2A, #d16363);
+  height:300px;
+}
+
+.events{
+  background: linear-gradient(to right, #333BA5, #8289db);
+  height:300px;
+}
+
+.sub-title{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  margin-top: -2px;
+  margin-bottom: -3px;
+  font-weight: bold;
+}
+
+.material-tooltip{
+  background-color: white!important;
+  color: #A52A2A!important;
+  font-family: 'Hind', sans-serif!important;
+}
+
+.page-title{
+  font-family: 'Roboto',sans-serif;
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #A52A2A;
+}
+
+.btn-floating, .btn-floating:hover{
+  background-color: #A52A2A;
+}
+
+label{
+  font-family: 'Roboto',sans-serif!important;
+  font-size: 15px!important;
+  color:#A52A2A !important;
+}
+
+.tbl-div{
+height: 400px;
+overflow-y: scroll;
+}

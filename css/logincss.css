@@ -1,0 +1,156 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.img-raised {
+  box-shadow: 0 5px 15px -8px rgba(0, 0, 0, 0.24), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+.avatar, img {
+  width: 115px;
+  height:115px;
+  position:static;
+}
+
+/* body{
+  background-color: rgb(209, 209, 209);
+} */
+
+h2{
+  color: white;
+  font-size: 40px;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 20;
+  margin-bottom: 0;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+h2:hover{
+  color: #f0c441;
+}
+
+h3{
+  margin-top: 5;
+  color: white;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card1{
+  max-height: 650px;
+  width: 500px;
+  background-color: #A52A2A;
+  margin-top: 6rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+
+.log-in{
+  height: 240px;
+  width: 100%;
+}
+
+.plmlogo{
+  margin-top: -6.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ::placeholder{
+  font-weight: bold;
+} */
+
+.btn{
+  background-color: #333BA5;
+  font-family: 'Open Sans', sans-serif;
+  height: 40px;
+  width: 100px;
+}
+
+.btn:hover, .btn:focus{
+  background-color: #3c45bd;
+}
+
+.input-field{
+  color: #363636;
+}
+
+.input-field .prefix.active {
+  color: #747474;
+}
+
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+#social {
+  margin: 20px 10px;
+  text-align: center;
+}
+
+.smGlobalBtn{ /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    box-shadow: 0 2px 2px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 25px;
+    -moz-border-radius:25px;
+    -webkit-border-radius:25px;
+}
+
+/* facebook button class*/
+.facebookBtn{
+    background: #4060A5;
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+}
+
+/* twitter button class*/
+.twitterBtn{
+    background: #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; /* add twitter icon */
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+}
+
+/* google plus button class*/
+.googleplusBtn{
+    background: #e64522;
+}
+
+.googleplusBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d5"; /* add googleplus icon */
+}
+
+.googleplusBtn:hover{
+      color: #e64522;
+      background: #fff;
+}
