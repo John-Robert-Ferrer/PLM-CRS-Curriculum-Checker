@@ -69,6 +69,20 @@ Please ensure that the MySQL and Apache is checked on the XAMPP Application/Cont
 * [Animate.css](https://daneden.github.io/animate.css/) - Used for the animation or transition of some HTML elements.
 * [Material Design Icons](https://material.io/tools/icons/) - Used for the delightful, beautifully crafted symbols for common actions and items.
 
+## Contributors
+
+This project is created by Team SQUADCORE.
+
+```
+  * John Robert S. Ferrer (Main Programmer)
+  * Ericka C. Gonzales (Assistant Programmer)
+  * Celestine Neri N. Pongasi (System Designer)
+  * Patricia Mae D. Dogelio (Head Tester, Documentation Head)
+  * Denyle Marie U. Barro (Tester, Documentation Member)
+  * Roy Samuel R. Evangelista (Documentation Member)
+  * EJ Boy J. Antonio (Documentation Member)
+```
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
