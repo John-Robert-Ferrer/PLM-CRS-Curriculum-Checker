@@ -56,7 +56,7 @@ To run the system, open your web browser and type in localhost/{{the_folder_name
 
 ## Deployment
 
-Please ensure that the MySQL and Apache is checked on the XAMPP Application/Controller.
+Please ensure that you have done the Prerequisites and the PHP Version must be PHP 7.
 
 ## Built With
 
